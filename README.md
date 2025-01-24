@@ -11,3 +11,12 @@ Unlock All Achievements – Skip the grind and unlock every achievement with a c
 Max Out Your Buildings – Why wait for all the upgrades when you can have them now? 🏢
 Activate All Buffs – Activate every buff at once and watch your cookies explode. 💥
 And more! Seriously, if you’ve thought of it, it’s probably in here.
+
+How to use it-
+
+Open any version of cookie clicker, right click, click inspect element
+and click the console tab at the top right hand of the screen.
+
+Copy the code from any of the hacks under "src" into the console and press enter to fire the code.
+
+You now should have your hacks!
